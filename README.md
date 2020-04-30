@@ -1,4 +1,4 @@
-# Sample 01 - Login Angular 9 and Auth 0
+# Login - Angular 9 and Auth0
 
 This sample app demonstrates how to log in, log out, and view profile information of the logged-in user. It uses [auth0-spa-js](https://github.com/auth0/auth0-spa-js).
 
