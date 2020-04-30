@@ -17,7 +17,7 @@ The sample needs to be configured with your Auth0 domain and client ID in order 
 
 ## Development server
 
-Run `npm start` for a dev server. Navigate to `http://localhost:3000`. The app will automatically reload if you change any of the source files.
+Run `npm start` for a dev server. Navigate to `http://localhost:4200`. The app will automatically reload if you change any of the source files.
 
 ## Build
 
@@ -65,7 +65,7 @@ If you have found a bug or if you have a feature request, please report them at 
 
 ## Author
 
-[Auth0](SantYadav)
+[Auth0](https://github.com/skyrbs/)
 
 ## License
 
